@@ -1,0 +1,16 @@
+Day 4, Pandas:
+Download the data set about Value of Energy Cost Saving Program for businesses in New York City (under the "Export" option, there is a way to retrieve a CSV file). Answer the following questions.
+
+Q1. How many different companies are represented in the data set?
+Q2. What is the total number of jobs created for businesses in Queens?
+Q3. How many different unique email domains names are there in the data set?
+Q4. Considering only NTAs with at least 5 listed businesses, what is the average total savings and the total jobs created for each NTA?
+Q5. Save your result for the previous question as a CSV file.
+
+Day5, Plotting: 
+Go through the Introductory Tutorials on Matplotlib.
+Using the same data set and results that you were working with in the pandas action items section (Day 4), 
+Q1. create a scatter plot of jobs created versus average savings. Use both a standard and a logarithmic scale for the average savings.
+Q2. histogram of the log of the average total savings.
+Q3. line plot of the total jobs created for each month.
+If you have time, take a look at this short tutorial on Altair.
